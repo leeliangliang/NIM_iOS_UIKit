@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "NIMKitTimerHolder.h"
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 
 @class NIMKitFirerInfo;
 

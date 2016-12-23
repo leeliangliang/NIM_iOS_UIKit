@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 #import "NIMGlobalMacro.h"
 
 @interface NIMKitUtil : NSObject

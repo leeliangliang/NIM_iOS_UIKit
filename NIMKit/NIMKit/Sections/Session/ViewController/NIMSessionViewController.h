@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 #import "NIMSessionConfig.h"
 #import "NIMMessageCellProtocol.h"
 #import "NIMSessionConfigurateProtocol.h"

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "NIMContactDefines.h"
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 
 @interface NIMGroupedDataCollection : NSObject
 

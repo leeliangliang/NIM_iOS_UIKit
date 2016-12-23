@@ -7,7 +7,7 @@
 //
 
 #import "NIMKitFileLocationHelper.h"
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 #import <sys/stat.h>
 
 @interface NIMKitFileLocationHelper ()

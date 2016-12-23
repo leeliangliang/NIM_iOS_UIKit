@@ -9,7 +9,7 @@
 #ifndef NIMSessionConfigurateProtocol_h
 #define NIMSessionConfigurateProtocol_h
 
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 #import "NIMMessageModel.h"
 
 @protocol NIMSessionInteractorDelegate <NSObject>

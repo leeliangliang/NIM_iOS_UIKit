@@ -7,7 +7,7 @@
 //
 
 #import "NIMSessionInteractorImpl.h"
-#import "NIMSDK.h"
+#import <NIMSDK/NIMSDK.h>
 #import "NIMMessageModel.h"
 #import "NIMKitUIConfig.h"
 #import "NIMSessionTableAdapter.h"
